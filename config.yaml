@@ -1,4 +1,4 @@
-baseurl: "https://henrygrant.github.io/hugo-blog"
+baseURL: "https://henrygrant.github.io/"
 languageCode: "en-us"
 title: "Henry Grant"
 theme: "hugo-tania"
