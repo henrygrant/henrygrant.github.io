@@ -1,0 +1,81 @@
+baseurl: "https://henrygrant.github.io/hugo-blog"
+languageCode: "en-us"
+title: "Henry Grant"
+theme: "hugo-tania"
+paginate: 6
+
+disqusShortname: https-hugo-tania-netlify-app
+
+params:
+  # Emoji will show before the blog title on site navbar.
+  titleEmoji: 
+
+  # Logo will show before the blog title on site navbar.
+  titleLogo: 
+  
+  # Enable float footnotes.
+  # Default to true
+  enableFootnotes: true
+  
+  siteName: "Henry Grant"
+  siteDesc: "A Blog"
+  author: "Henry Grant"
+
+  colorScheme:
+    # Enable toggle colorScheme
+    # Default to true
+    toggle: true
+    # Default colorScheme
+    # Default to auto
+    default: auto
+
+  # Limit how many categories filter show above search input.
+  # Default to 5
+  maxCategoryToShow: 10
+
+  # Show your socail information with icon on index bio with `_index.md` content.
+  socialOptions:
+    dev-to:
+    email: hgrant94@gmail.com
+    facebook:
+    github: https://github.com/henrygrant
+    instagram: https://www.instagram.com/henry_grant_/
+    linkedin: https://www.linkedin.com/in/henry-grant-662227169/
+    medium:
+    stack-overflow:
+    steam: https://steamcommunity.com/id/onthechainwax
+    telegram:
+    twitter:
+    twitch:
+    whatsapp:
+  
+  # Comments settings
+  comments:
+    enabled: false
+    provider: giscus
+
+    giscus:
+      repo: henrygrant/hugo-blog
+      id: MDEwOlJlcG9zaXRvcnkzMTYyNjQzMDc=
+      category:
+        name: Comments
+        id: DIC_kwDOEtnPc84B_WKP
+
+menu:
+  header:
+    - name: Posts
+      url: "/posts/"
+  footer:
+    - name: RSS
+      url: "/index.xml"
+
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
