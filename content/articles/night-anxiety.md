@@ -1,5 +1,4 @@
 ---
-slug: "/journal/night-anxiety"
 date: "2021-12-22 01:00:00"
 title: "Night Anxiety"
 draft: true
@@ -23,7 +22,7 @@ I feel marginally better that I wrote something down about the situation.
 <br>
 <br>
 
-```
+
 * Dream:
 
 I'm sitting in a bar or something, chatting with a few guys. Someone comes in who I wouldn't mind hanging out with, but I tell them I have a birthday(?) party to go to nearby but I'll swing back by later. 
@@ -31,4 +30,3 @@ I'm sitting in a bar or something, chatting with a few guys. Someone comes in wh
 I leave said bar and I'm in some kind of outdoor mall, and upon making my way to my destination I discover it is being held at a place I'd describe as cross between a brewery and a Gamestop. I see some people I was friends with in middle/high school out front at the picnic tables, but don't immediately approach them. Instead I head inside to talk to the guy who appears to be the drummer for a band that just played. I know him, another person from middle/high school I haven't seen in 10 years and apparently the person who's birthday we're celebrating. We say hey and he asks if I brought my pokemon cartridge, which I did not.
 
 I'll mention that none of these people have I ever been particularly close to, nor desired to be really. These were basically just classmates from awhile ago. There are some people from high school that I would prefer to see or avoid more than others, but I haven't given much thought to any of these people in a while. 
-```

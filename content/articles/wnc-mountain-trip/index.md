@@ -1,10 +1,9 @@
 ---
-slug: "/journal/wnc-mountains"
 date: "2022-01-06 10:44:00"
-title: "WNC Mountains"
-cover: "images/cover.png"
+title: "WNC Mountain Trip"
 ---
 
+![Beech Mountain](images/cover.png)
 Current setting: Coffee shop in Blowing Rock, NC. It's called Bald Guy Brew.
 
 My dad, both sisters and my middle sister's boyfriend went skiing up at Beech Mountain, near Banner Elk, NC. After a couple of runs I got the hang of it, managing to be able to make it down the tallest open slope they had going. It was pretty sick, there was a bar at the top that sold PBR. 

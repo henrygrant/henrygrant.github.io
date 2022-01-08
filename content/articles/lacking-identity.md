@@ -1,5 +1,4 @@
 ---
-slug: "/journal/lacking-identity"
 date: "2022-01-07"
 title: "Lacking Identity"
 ---

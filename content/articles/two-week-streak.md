@@ -1,7 +1,7 @@
 ---
-slug: "/journal/two-week-streak"
 date: "2021-12-07"
 title: "Two Week Streak"
+draft: true
 ---
 
 I have mixed feelings about people with very specific coffee orders. As someone who generally gets something very simple: a black coffee or an americano, I wan't to hate those people who get the seasonal pumpkin waffle latte with two pumps of caramel, oat milk, an extra shot of espresso. However, I don't think I can. Delis are one of my favorite things in life. When you find yourself in a serious deli, particularly in the Northeast united states, if you're not getting a Italian Hero you better be ready to spit out exactly what you want, and I do*. My judgement of people with specific orders at the coffee shop stops today. 

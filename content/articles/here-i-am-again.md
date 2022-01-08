@@ -1,7 +1,7 @@
 ---
-slug: "/journal/here-i-am-again"
 date: "2021-12-01"
 title: "Here I am again"
+draft: true
 ---
 
 Every couple of months I decide to quit a vice. Before you congratulate me, know that it has never stuck. Drinking and smoking are (historically) two of my favorite things that I just can't seem to kick. 
