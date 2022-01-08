@@ -1,6 +1,6 @@
 ---
 date: "2022-01-07"
-title: "Identity via Career"
+title: "Identity via career, or lack thereof"
 ---
 
 Recently I was driving through the mountains of Western North Carolina shortly after a snowfall. Even on the small, winding roads that lead up to Banner Elk, each were plowed and salted just as Downtown Anywhere would be at this part of the season. Long driveways that twisted out of sight to people's properties were all nicely plowed as well.
