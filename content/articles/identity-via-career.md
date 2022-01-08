@@ -1,6 +1,6 @@
 ---
 date: "2022-01-07"
-title: "Lacking Identity"
+title: "Identity via Career"
 ---
 
 Recently I was driving through the mountains of Western North Carolina shortly after a snowfall. Even on the small, winding roads that lead up to Banner Elk, each were plowed and salted just as Downtown Anywhere would be at this part of the season. Long driveways that twisted out of sight to people's properties were all nicely plowed as well.
@@ -19,4 +19,4 @@ These jobs that come with a responsibility to a community, whether critical like
 
 There are things one can and should do, such as joining a gym and social clubs, but in my eyes a person's job is the main definer of their contributions to society/their community and these sorts of things are just satellites around the planet of unfulfillment. 
 
-Is it possible to find a sense of identity through a career as a software developer, or are stuck finding ourselves through extra-curriculars? 
+Is it possible to find a sense of identity through a career as a software developer, or are we stuck finding ourselves through extra-curriculars? 
