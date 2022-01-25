@@ -1,7 +1,6 @@
 ---
 date: "2021-12-22 01:00:00"
 title: "Night Anxiety"
-draft: true
 ---
 
 I have to wonder if if this uncommon and not everyone experiences this. 

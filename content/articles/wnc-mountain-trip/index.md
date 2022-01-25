@@ -22,6 +22,6 @@ I woke up in Banner Elk halfway expecting my sister to want to go hit the slopes
 
 This place is like the quintessential little mountain town. Everyone is super nice, snow is all over the place, and I'm sure there's some place I can go "mine for gems" around the corner. 
 
-It doesn't seem that it's a well-kept secret though. Just looking at the Zillow listings, there is no houses under 300k and empty lots look to float around 100k.
+It doesn't seem that it's a well-kept secret though. Just looking at the Zillow listings, there are no houses under 300k and empty lots look to float around 100k. Barely any availability. 
 
-I really wish I could figure out what the right move is, living-wise. I feel like I'm relatively high income for North Carolina, and I have the privilege of working remote. That _should_ mean I could come buy a "starter home" type of place around here and actually live in it, but that just doesn't seem to be the case. I don't exactly have anyone I can ask about financial decisions though, so maybe hunting down a financial advisor is the move. In the meantime I'll just keep saving. 
+I really wish I could figure out what the right move is, living-wise. In the meantime I'll just keep saving. 
